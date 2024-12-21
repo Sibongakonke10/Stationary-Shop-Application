@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\GIT HUB SIBONGA10\Stationary Shop Application\Stationary Shop Application\bin\Debug\Stationary Shop Application.exe.config
+C:\Users\student\Desktop\GIT HUB SIBONGA10\Stationary Shop Application\Stationary Shop Application\bin\Debug\Stationary Shop Application.exe
+C:\Users\student\Desktop\GIT HUB SIBONGA10\Stationary Shop Application\Stationary Shop Application\bin\Debug\Stationary Shop Application.pdb
+C:\Users\student\Desktop\GIT HUB SIBONGA10\Stationary Shop Application\Stationary Shop Application\obj\Debug\Stationary Shop Application.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\GIT HUB SIBONGA10\Stationary Shop Application\Stationary Shop Application\obj\Debug\Stationary_Shop_Application.Form1.resources
+C:\Users\student\Desktop\GIT HUB SIBONGA10\Stationary Shop Application\Stationary Shop Application\obj\Debug\Stationary_Shop_Application.Properties.Resources.resources
+C:\Users\student\Desktop\GIT HUB SIBONGA10\Stationary Shop Application\Stationary Shop Application\obj\Debug\Stationary Shop Application.csproj.GenerateResource.cache
+C:\Users\student\Desktop\GIT HUB SIBONGA10\Stationary Shop Application\Stationary Shop Application\obj\Debug\Stationary Shop Application.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\GIT HUB SIBONGA10\Stationary Shop Application\Stationary Shop Application\obj\Debug\Stationary Shop Application.exe
+C:\Users\student\Desktop\GIT HUB SIBONGA10\Stationary Shop Application\Stationary Shop Application\obj\Debug\Stationary Shop Application.pdb
